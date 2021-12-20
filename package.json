@@ -18,9 +18,9 @@
     "bulma": "^0.9.0",
     "postcss-cli": "^7.1.1",
     "autoprefixer": "^9.8.0",
-    "@babel/core": "^7.9.6",
-    "@babel/cli": "^7.8.4",
-    "@babel/preset-env": "^7.9.6"
+    "@babel/core": "^7.16.0",
+    "@babel/cli": "^7.16.0",
+    "@babel/preset-env": "^7.16.4"
   },
   "scripts": {
     "clear": "rimraf exampleSite/public & rimraf exampleSite/resources",
